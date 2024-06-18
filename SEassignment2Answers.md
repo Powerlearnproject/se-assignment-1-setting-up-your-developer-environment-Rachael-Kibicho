@@ -1,7 +1,7 @@
 # 3. REFLECTION ON CHALLENGES  
 I had none, since I had all the software except dart. 
 
-# 2. GIT REPO  
+# 2. GIT REPO :https://github.com/Rachael-Kibicho/PLPrepo/tree/master  
 
 # 1. INSTALLATION PROCESS:  
 ## Windows installation  
