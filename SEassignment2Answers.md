@@ -1,19 +1,19 @@
-#3. REFLECTION ON CHALLENGES
+#3. REFLECTION ON CHALLENGES  
 I had none, since I had all the software except dart. 
 
-#2. GIT REPO
+#2. GIT REPO  
 
-#1. INSTALLATION PROCESS:
-##Windows installation
-###Step 1 - Format the drive and set the primary partition as active.
+#1. INSTALLATION PROCESS:  
+##Windows installation  
+###Step 1 - Format the drive and set the primary partition as active.  
 
 Connect the USB flash drive to your technician PC.
 Open Disk Management: Right-click on Start and choose Disk Management.
 Format the partition: Right-click the USB drive partition and choose Format. Select the FAT32 file system to be able to boot either BIOS-based or UEFI-based PCs.
-Set the partition as active: Right-click the USB drive partition and click Mark Partition as Active.
+Set the partition as active: Right-click the USB drive partition and click Mark Partition as Active.  
 
 
-###Step 2 - Copy Windows Setup to the USB flash drive.
+###Step 2 - Copy Windows Setup to the USB flash drive.  
 
 Use File Explorer to copy and paste the entire contents of the Windows product DVD or ISO to the USB flash drive.
 Optional: add an unattend file to automate the installation process. For more information, see Automate Windows Setup.
