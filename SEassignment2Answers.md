@@ -28,7 +28,7 @@ Turn on the PC and press the key that opens the boot-device selection menu for t
 Windows Setup starts. Follow the instructions to install Windows.
 Remove the USB flash drive.
 
-##VSCODE installation
+##VSCODE installation  
 Setting up Visual Studio involves a few steps. Here's a concise step-by-step guide:
 Download Visual Studio:
 Visit the Visual Studio website and click on "Download Visual Studio."
@@ -51,27 +51,27 @@ On the welcome screen, select your development environment. For example, you can
 Start Coding:
 You're now ready to start coding! Create a new project or open an existing one to begin your development work.
 
-###Python environment installation
-For you to use Python, you need to download it from the internet and install on your computer.
+###Python environment installation  
+For you to use Python, you need to download it from the internet and install on your computer.  
 
-In this tutorial, we will take you through the installation of Python on the available operating systems.
+In this tutorial, we will take you through the installation of Python on the available operating systems.  
 
 
-Installation on Windows
-Visit the link https://www.python.org/downloads/
+Installation on Windows  
+Visit the link https://www.python.org/downloads/  
 
-to download the latest release ofPython. In this process, we will install Python 3.8.6 on ourWindows operating system. When we click on the above link, it will bring us the following page.
+to download the latest release ofPython. In this process, we will install Python 3.8.6 on ourWindows operating system. When we click on the above link, it will bring us the following page.  
 
-###Step - 1: Select the Python's version to download
-###Step - 2: Click on the Install Now
+###Step - 1: Select the Python's version to download  
+###Step - 2: Click on the Install Now  
 
-Double-click the executable file, which is downloaded;
+Double-click the executable file, which is downloaded;  
 
-the following window will open.
+the following window will open.  
 
-Select Customize installation and proceed.
+Select Customize installation and proceed.  
 
-Click on the Add Path check box, it will set the Python path automatically.
-###Step - 3 Installation in Process
+Click on the Add Path check box, it will set the Python path automatically.  
+###Step - 3 Installation in Process  
 
 
